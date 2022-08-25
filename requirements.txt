@@ -1,0 +1,9 @@
+dbus-python==1.2.4
+gpg==1.13.1
+libcomps==0.1.18
+python-dateutil==2.6.1
+rpm==4.14.3
+selinux==2.9
+sepolicy==1.1
+setools==4.3.0
+six==1.11.0
