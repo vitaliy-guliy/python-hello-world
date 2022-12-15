@@ -3,8 +3,8 @@
 #  Licensed under the MIT License. See LICENSE in project root.
 # -------------------------------------------------------------
 # Sample tests to show how the UI works
-# you must enable/install pytest or some other testing 
-# framework for this to work. 
+# you must enable/install pytest or some other testing
+# framework for this to work.
 
 def test_pytest_1():
     assert True
