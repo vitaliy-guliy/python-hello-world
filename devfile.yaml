@@ -17,7 +17,7 @@ components:
   - name: venv
     volume:
       size: 1G
-    
+
 commands:
   - id: run
     exec:
